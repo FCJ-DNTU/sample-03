@@ -32,9 +32,6 @@
 
 This project was an opportunity for me to utilize my self-taught front-end skills and existing back-end knowledge to build an ecommerce platform. However, my skills in both areas were not sufficient, and I lacked full-stack knowledge, including how to establish communication between the front end and back end. Despite these challenges, I took pride in this project because it motivated me to learn and explore various technologies, such as C# Web API, Redux, JWT tokens, and HTTP methods and API development in general.
 
-### Practice in Ubuntu 22.04
-See more at: https://shadow-eagle-469.notion.site/Tri-n-khai-d-a-n-Ecormerce-bbdfc3d30ac348c097015c74941b4575
-
 ### Built With
 
 * React.js
@@ -76,7 +73,10 @@ To get a local copy up and running, follow these steps.
      npm start
      ```
 
-     
+
+## Practice in Ubuntu 22.04
+See more at: https://shadow-eagle-469.notion.site/Tri-n-khai-d-a-n-Ecormerce-bbdfc3d30ac348c097015c74941b4575
+
 ## Previews
 
 **Browsing and Shopping**
